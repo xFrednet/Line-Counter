@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Line Counter.iml" filepath="$PROJECT_DIR$/Line Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Line-Counter.iml" filepath="$PROJECT_DIR$/Line-Counter.iml" />
     </modules>
   </component>
 </project>
